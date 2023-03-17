@@ -1,12 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Bai+Jamjuree:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,400;1,500;1,600;1,700&family=Sono:wght@400;500;600;700&display=swap');
 
 :root {
-    --color-body: #b6cbce;
-    --color-heading: #eef3db;
-    --color-base: #033f47;
-    --color-base2: #022a30;
-    --color-brand: #e0f780;
-    --color-brand2: #deff58;
+    --color-body: #a9294f;
+    --color-heading: #fdf1db;
+    --color-base: #97bfb4;
+    --color-base2: #1b1717;
+    --color-brand: #0e918c;
+    --color-brand2: #0e918c;
     --sidbar-width: 240px;
     --font-base: "Bai Jamjuree";
 }
